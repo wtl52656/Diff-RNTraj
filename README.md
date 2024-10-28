@@ -17,3 +17,5 @@ The code of Diff-RNTraj
 
 # Generated Sample:
    Our generated trajectories on the Chengdu and Porto datasets in the path of **./generate_data**.
+
+The processed dataset is available at https://drive.google.com/drive/folders/1TvotDt8wyZIJZg87_sBvYIi5wQVSO0OB?usp=drive_link
