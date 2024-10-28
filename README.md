@@ -1,5 +1,6 @@
-# Diff-RocT
-The code of Diff-RNTraj
+# Diff-RNTraj
+Source code of TKDE: Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation
+
 # Training:
   Running the following command to train Diff-RNTraj.
   
